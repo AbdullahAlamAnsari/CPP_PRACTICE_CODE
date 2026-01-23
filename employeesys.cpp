@@ -2,7 +2,7 @@
 using namespace std;
 
 
-class Employee
+class Employee //uses single inheritance
 {
     protected:
     int id;
@@ -56,3 +56,4 @@ cout<<count;
     
     
 }
+
